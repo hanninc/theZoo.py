@@ -1,1 +1,1 @@
-# deneme
+# cd theZo.py
